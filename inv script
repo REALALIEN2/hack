@@ -9,4 +9,36 @@ let hotbarslot7 = empty
 let hotbarslot8 = empty
 let hotbarslot9 = empty
 
-let hotbarslotleft= 1 = empty
+let hotbarslotleft = 1 = empty
+
+let invslot = 1 = empty
+let invslot = 2 = empty
+let invslot = 3 = empty
+let invslot = 4 = empty
+let invslot = 5 = empty
+let invslot = 6 = empty
+let invslot = 7 = empty
+let invslot = 8 = empty
+let invslot = 9 = empty
+let invslot = 10 = empty
+let invslot = 11 = empty
+let invslot = 12 = empty
+let invslot = 13 = empty
+let invslot = 14 = empty
+let invslot = 15 = empty
+let invslot = 16 = empty
+let invslot = 17 = empty
+let invslot = 18 = empty
+let invslot = 19 = empty
+let invslot = 20 = empty
+
+if action = breakwood = hotbarslot1 = 3 wood
+if action = minestone = hotbarslot1 = 3 stone
+if action = minecoal = hotbarslot1 = 3 coal
+if action = mineiron = hotbarslot1 = 3 iron
+
+
+
+
+
+
