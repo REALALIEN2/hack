@@ -8,9 +8,7 @@ let hotbarslot6 = empty
 let hotbarslot7 = empty
 let hotbarslot8 = empty
 let hotbarslot9 = empty
-
-let hotbarslotleft = 1 = empty
-
+ 
 let invslot = 1 = empty
 let invslot = 2 = empty
 let invslot = 3 = empty
