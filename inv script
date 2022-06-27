@@ -1,10 +1,12 @@
 
-let hotbarslot= 1 = empty
-let hotbarslot= 2 = empty
-let hotbarslot= 3 = empty
-let hotbarslot= 4 = empty
-let hotbarslot= 5 = empty
-let hotbarslot= 6 = empty
-let hotbarslot= 7 = empty
-let hotbarslot= 8 = empty
-let hotbarslot= 9 = empty
+let hotbarslot1 = empty
+let hotbarslot2 = empty
+let hotbarslot3 = empty
+let hotbarslot4 = empty
+let hotbarslot5 = empty
+let hotbarslot6 = empty
+let hotbarslot7 = empty
+let hotbarslot8 = empty
+let hotbarslot9 = empty
+
+let hotbarslotleft= 1 = empty
